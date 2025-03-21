@@ -19,4 +19,5 @@
 
 ## ⚰️ Вечное
 
-[🧻 LaTeX шаблоны для отчётов по ГОСТу](https://github.com/synalice/LaTeX-MIREA-Template)
+1. ~[🧻 LaTeX шаблоны для отчётов по ГОСТу](https://github.com/synalice/LaTeX-MIREA-Template)~
+1. [Typst шаблон для отчётов по ГОСТу](https://github.com/burenotti/typst-mirea-report/tree/master)
